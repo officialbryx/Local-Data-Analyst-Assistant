@@ -31,4 +31,4 @@ Start simple: Python script in terminal.
 
 Later: build a Streamlit or Flask web UI on your laptop where you can type queries and see results instantly.
 
-I'll work on it later. I'm sleepy atm *_*
+I'll work on it later. I'm sleepy atm -_-
